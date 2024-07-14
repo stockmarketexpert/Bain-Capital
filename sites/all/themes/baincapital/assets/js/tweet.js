@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){var owl=$("#tweet-carousel");owl.owlCarousel({items:5,itemsDesktop:[1199,4],itemsDesktopSmall:[900,2],itemsTablet:[600,2],itemsMobile:[479,1],navigation:true,navigationText:false,stopOnHover:true,autoPlay:true});});
